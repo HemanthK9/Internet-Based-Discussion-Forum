@@ -1,0 +1,21 @@
+#wapper{
+width: 800px;
+margin-left:auto;
+margin-right: auto;
+}
+a{
+color: 0000ff;
+}
+.cat_links {
+display:block;
+padding:5px;
+padding-top:10px;
+padding-bottom:10px;
+border:px solid #000000;
+margin-bottom:5px;
+background-color:#cccccc;
+color:#000000;
+}
+.cat_links:hover{
+background-color: #dddddd;
+}
